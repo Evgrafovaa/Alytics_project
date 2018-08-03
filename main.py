@@ -19,6 +19,6 @@ def print_func(line, min_t, max_t, dt):
     plt.show()
 
 def main():
-    print_func("t*t", 0, 10, 1)
+    print_func("t*t-2", 0, 10, 1)
 
 main()
